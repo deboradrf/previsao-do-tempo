@@ -2,7 +2,7 @@
 
 ### 📚 Descrição
 Esse projeto fornece informações sobre o clima, umidade e temperatura do local desejado. <br>
-Desenvolvido em HTML, CSS e JavaScript, utilizando uma API.
+Desenvolvido em HTML, CSS e JavaScript, utilizando uma API, para fixação de conteúdo.
 
 ### 📁 Acesso
 Hospedado no Netlify <br>
