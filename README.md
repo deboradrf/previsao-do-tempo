@@ -11,10 +11,10 @@ Projeto desenvolvido para fixação de conteúdo, que simula um aplicativo de pr
 <img src="https://github.com/deboradrf/previsao-do-tempo/assets/130398684/1e5329d0-6415-4b96-9b56-769fa67831b6">
 
 ### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``HTML``
-- ``CSS``
-- ``JavaScript``
+- Visual Studio Code
+- HTML
+- CSS
+- JavaScript
 
 ### 📁 Acesso ao projeto
 Hospedado no Netlify `https://previsaotempo-deboradrf.netlify.app`
